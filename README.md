@@ -118,7 +118,3 @@ blog-platform/
 - Protected routes
 - Input validation
 - CORS protection
-
-## License
-
-MIT
